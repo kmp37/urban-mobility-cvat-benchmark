@@ -1,0 +1,4 @@
+data/obj_train_data/test_img_01.jpg
+data/obj_train_data/test_img_02.jpg
+data/obj_train_data/test_img_03.jpg
+data/obj_train_data/test_img_04.jpg
